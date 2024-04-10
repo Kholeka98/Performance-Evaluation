@@ -18,7 +18,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek
 | Q-P2         | Total quantity sold of product 2   | 
 | Q-P3         | Total quantity sold of product 3    | 
 | Q-P4         | Total quantity sold of product 4    | 
-| S-P1         | Total revenue of product 1    | 
-| S-P2         | Total revenue of product 2    | 
-| S-P3         | Total revenue of product 3    | 
-| S-P4         | Total revenue of product 4    | 
+| S-P1         | Total sales of product 1    | 
+| S-P2         | Total sales of product 2    | 
+| S-P3         | Total sales of product 3    | 
+| S-P4         | Total sales of product 4    | 
