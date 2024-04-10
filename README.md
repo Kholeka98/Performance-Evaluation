@@ -1,4 +1,4 @@
-# Performance Evaluation Analysis 
+# Performance Evaluation 
 
 ## Project objective
 The objective of this SQL project is to conduct a comprehensive performance analysis of four products based on their quantity sold and revenue generated. Through the utilization of SQL queries and database management techniques, this project aims to:
