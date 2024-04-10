@@ -25,7 +25,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek
 ### Description of datasets uploaded
 - `statsfinal` is the dataset from Kaggle.
 - `product_sales_data` is the dataset I obtained after renaming columns and preparing the data.
-- `SQL imported data` is the dataset SQL imported after removing null values.
+- `SQL imported data` is the dataset SQL imported after removing null values from `product_sales_data`.
 
 ## Strategy 
 1. **Dataset Prepation on Excel and MySQL**
