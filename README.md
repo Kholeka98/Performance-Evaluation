@@ -9,16 +9,16 @@ The objective of this SQL project is to conduct a comprehensive performance anal
 - **Inform Decision-Making**: Provide stakeholders with valuable insights to inform decision-making processes related to product management, marketing strategies, inventory planning, and resource allocation.
 
 ## About Data 
-The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek/product-sales-data). This dataset contains quantity sold and revenue of four different products. The dataset description states: " This is a hypothetical dataset generated using python for educational purposes. It bears no resemblance to any real firm."
-| Column       | Description           |
-| ------------- |:-------------:|
-| sales_id     | This is a unique identifierassigned to each day of sales |
-| Date         | This is a date of day od sales      |  
-| Q-P1         | Total quantity sold of product 1    | 
-| Q-P2         | Total quantity sold of product 2   | 
-| Q-P3         | Total quantity sold of product 3    | 
-| Q-P4         | Total quantity sold of product 4    | 
-| S-P1         | Total sales of product 1    | 
-| S-P2         | Total sales of product 2    | 
-| S-P3         | Total sales of product 3    | 
-| S-P4         | Total sales of product 4    | 
+The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek/product-sales-data). This dataset contains quantity sold and revenue of four different products. The dataset description states: "This is a hypothetical dataset generated using python for educational purposes. It bears no resemblance to any real firm."
+| Column       | Description           | Data Type |
+| ------------- |:-------------:|:------------:|
+| sales_id     | This is a unique identifierassigned to each day of sales | VARCHAR(5)
+| Date         | This is a date of day od sales      |  DATE
+| Q-P1         | Total quantity sold of product 1    | DECIMAL(12, 3)
+| Q-P2         | Total quantity sold of product 2   | DECIMAL(12, 3)
+| Q-P3         | Total quantity sold of product 3    | DECIMAL(12, 3)
+| Q-P4         | Total quantity sold of product 4    | DECIMAL(12, 3)
+| S-P1         | Total sales of product 1    | DECIMAL(12, 3)
+| S-P2         | Total sales of product 2    | DECIMAL(12, 3)
+| S-P3         | Total sales of product 3    | DECIMAL(12, 3)
+| S-P4         | Total sales of product 4    | DECIMAL(12, 3)
