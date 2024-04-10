@@ -30,7 +30,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek
       - Define a table  and import NOT NULL data into the table.
 
 2. **Feature Engineering**
-     - hijjhj
+     - Add a new column named `day_of_week' from the date column
    
    
 
