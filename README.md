@@ -37,4 +37,4 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek
      - Add a new column named `total_revenue` that computes the total revenue generated for each record, aggregating the revenue of all products.
    
 ## Business Questions to answer
-----
+
