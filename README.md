@@ -24,13 +24,17 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek
 | S-P4         | Total sales of product 4                                 | DECIMAL(12, 3)  |
 
 ## Strategy 
-1. **Dataset Prepation**
+1. **Dataset Prepation on Excel and MySQL**
       - Data wrangling involved inspecting the dataset for null values and appropriately renaming columns based on their descriptions.
       - Build a database.
       - Define a table  and import NOT NULL data into the table.
 
-2. **Feature Engineering**
-     - Add a new column named ` day_of_week ` from the date column
+2. **Feature Engineering on MySQL**
+     - Add a new column named ` day_of_week ` which extracts the day of the week from the date field.
+     - Add a new column named ` month_name ` which extracts the month of the week from the date field.
+     - Add a new column named ` year ` which extracts the year from the date field.
+     - Add a new column named 'total_quantity' which calculates the  overall quantity of all products combined.
+     - Add a new column name ` total_revenue ` which calculates the overall revenue of all products combined.
    
    
 
