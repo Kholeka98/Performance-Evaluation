@@ -43,7 +43,9 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek
 
 
 ## Code
-The res
+I have attached a file named ` SQL Project ` containing the rest of the code. 
+
+
 ```sql
 -- Create database
 CREATE DATABASE IF NOT EXISTS product_sales;
