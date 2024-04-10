@@ -10,8 +10,15 @@ The objective of this SQL project is to conduct a comprehensive performance anal
 
 ## About Data 
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek/product-sales-data). This dataset contains quantity sold and revenue of four different products. This is a hypothetical dataset generated using python for educational purposes. It bears no resemblance to any real firm. 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Column       | Description           |
+| ------------- |:-------------:|
+| sales_id     | This is a unique identifierassigned to each day of sales |
+| Date         | This is a date of day od sales      |  
+| Q-P1         | Total quantity sold of product 1    | 
+| Q-P2         | Total quantity sold of product 2   | 
+| Q-P3         | Total quantity sold of product 3    | 
+| Q-P4         | Total quantity sold of product 4    | 
+| S-P1         | Total revenue of product 1    | 
+| S-P2         | Total revenue of product 2    | 
+| S-P3         | Total revenue of product 3    | 
+| S-P4         | Total revenue of product 4    | 
