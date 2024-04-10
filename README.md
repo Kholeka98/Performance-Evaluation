@@ -6,7 +6,6 @@ The objective of this SQL project is to conduct a comprehensive performance anal
 - **Identify Key Performance Indicators (KPIs)**: Determine key metrics such as total revenue, average revenue per product, total quantity sold, and average quantity sold for each product.
 - **Compare Product Performance**: Compare the performance metrics among the four selected products to identify trends, patterns, and disparities in sales volume and revenue generation.
 - **Uncover Insights**: Extract actionable insights from the analysis to understand which products are performing well and which may require further attention or improvement strategies.
-- **Inform Decision-Making**: Provide stakeholders with valuable insights to inform decision-making processes related to product management, marketing strategies, inventory planning, and resource allocation.
 
 ## About Data 
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek/product-sales-data). This dataset contains quantity sold and revenue of four different products. The dataset description states: "This is a hypothetical dataset generated using python for educational purposes. It bears no resemblance to any real firm."
