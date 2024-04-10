@@ -9,7 +9,7 @@ The objective of this SQL project is to conduct a comprehensive performance anal
 - **Inform Decision-Making**: Provide stakeholders with valuable insights to inform decision-making processes related to product management, marketing strategies, inventory planning, and resource allocation.
 
 ## About Data 
-The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek/product-sales-data). This dataset contains quantity sold and revenue of four different products. This is a hypothetical dataset generated using python for educational purposes. It bears no resemblance to any real firm. 
+The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek/product-sales-data). This dataset contains quantity sold and revenue of four different products. The dataset description states: " This is a hypothetical dataset generated using python for educational purposes. It bears no resemblance to any real firm."
 | Column       | Description           |
 | ------------- |:-------------:|
 | sales_id     | This is a unique identifierassigned to each day of sales |
