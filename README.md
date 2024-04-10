@@ -25,7 +25,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek
 
 ## Strategy 
 1. **Dataset Prepation**
- - Data wrangling involved inspecting the dataset for null values and appropriately renaming columns based on their descriptions.
+      - Data wrangling involved inspecting the dataset for null values and appropriately renaming columns based on their descriptions.
  - Build a database.
  - Define a table  and import NOT NULL data into the table.
 
