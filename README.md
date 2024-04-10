@@ -43,7 +43,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek
 5. What is the total quantity sold per month for all products combined in 2020?	
 6. What is the total quantity sold by year?
 7. What is the total quantity sold for each day of the week, grouped by year?
-8. Which product had the highest total revenue in a given year, and what was the total revenue for that product?
+8. Which product had the highest total revenue in a 2022, and what was the total revenue for that product?
  
 ## Code
 I have attached a file named [SQL Project]() containing the rest of the code.
@@ -55,7 +55,7 @@ CREATE DATABASE IF NOT EXISTS product_sales;
 
 -- Create table named product 
 CREATE TABLE IF NOT EXISTS product(
-	 order_id VARCHAR(4) NOT NULL PRIMARY KEY,
+	 sales_id VARCHAR(4) NOT NULL PRIMARY KEY,
     date DATETIME NOT NULL,
     quantity_p1 INT NOT NULL,
     quantity_p2 INT NOT NULL,
