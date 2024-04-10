@@ -37,4 +37,29 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek
      - Add a new column named `total_revenue` that computes the total revenue generated for each record, aggregating the revenue of all products.
    
 ## Business Questions to answer
+### Product
+### Sales
 
+
+
+## Code
+The res
+```sql
+-- Create database
+CREATE DATABASE IF NOT EXISTS product_sales;
+
+-- Create table named product 
+CREATE TABLE IF NOT EXISTS product(
+	 order_id VARCHAR(4) NOT NULL PRIMARY KEY,
+    date DATETIME NOT NULL,
+    quantity_p1 INT NOT NULL,
+    quantity_p2 INT NOT NULL,
+    quantity_p3 INT NOT NULL,
+    quantity_p4 INT NOT NULL,
+    revenue_p1 DECIMAL(12, 3)  NOT NULL,
+    revenue_p2 DECIMAL(12, 3)  NOT NULL,
+    revenue_p3 DECIMAL(12, 3) NOT NULL,
+    revenue_p4 DECIMAL(12, 3)  NOT NULL
+);
+
+```
