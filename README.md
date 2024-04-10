@@ -1,4 +1,4 @@
-# Performance Evaluation Analysis in MYSQL
+# Performance Evaluation Analysis 
 
 ## Project objective
 The objective of this SQL project is to conduct a comprehensive performance analysis of four products based on their quantity sold and revenue generated. Through the utilization of SQL queries and database management techniques, this project aims to:
@@ -12,13 +12,19 @@ The objective of this SQL project is to conduct a comprehensive performance anal
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek/product-sales-data). This dataset contains quantity sold and revenue of four different products. The dataset description states: "This is a hypothetical dataset generated using python for educational purposes. It bears no resemblance to any real firm."
 | Column       | Description           | Data Type |
 | ------------- |:-------------:|:------------:|
-| sales_id     | This is a unique identifierassigned to each day of sales | VARCHAR(5)
-| Date         | This is a date of day od sales      |  DATE
-| Q-P1         | Total quantity sold of product 1    | DECIMAL(12, 3)
-| Q-P2         | Total quantity sold of product 2   | DECIMAL(12, 3)
-| Q-P3         | Total quantity sold of product 3    | DECIMAL(12, 3)
-| Q-P4         | Total quantity sold of product 4    | DECIMAL(12, 3)
-| S-P1         | Total sales of product 1    | DECIMAL(12, 3)
-| S-P2         | Total sales of product 2    | DECIMAL(12, 3)
-| S-P3         | Total sales of product 3    | DECIMAL(12, 3)
-| S-P4         | Total sales of product 4    | DECIMAL(12, 3)
+| sales_id     | This is a unique identifierassigned to each day of sales | VARCHAR(5)      |
+| Date         | This is a date of day od sales                           |  DATE           |
+| Q-P1         | Total quantity sold of product 1                         | DECIMAL(12, 3)  |
+| Q-P2         | Total quantity sold of product 2                         | DECIMAL(12, 3)  |
+| Q-P3         | Total quantity sold of product 3                         | DECIMAL(12, 3)  |
+| Q-P4         | Total quantity sold of product 4                         | DECIMAL(12, 3)  |
+| S-P1         | Total sales of product 1                                 | DECIMAL(12, 3)  |
+| S-P2         | Total sales of product 2                                 | DECIMAL(12, 3)  |
+| S-P3         | Total sales of product 3                                 | DECIMAL(12, 3)  |
+| S-P4         | Total sales of product 4                                 | DECIMAL(12, 3)  |
+
+## Strategy 
+1. **Dataset Prepation**
+ - Data wrangling involved inspecting the dataset for null values and appropriately renaming columns based on their descriptions.
+ - 
+
