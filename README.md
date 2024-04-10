@@ -33,8 +33,8 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek
      - Add a new column named ` day_of_week ` which extracts the day of the week from the date field.
      - Add a new column named ` month_name ` which extracts the month of the week from the date field.
      - Add a new column named ` year ` which extracts the year from the date field.
-     - Add a new column named `total_quantity` which calculates the  overall quantity of all products combined.
-     - Add a new column name ` total_revenue ` which calculates the overall revenue of all products combined.
+     - Add a new column named `total_quantity` that computes the total quantity sold for each record, aggregating the quantities of all products.
+     - Add a new column named `total_revenue` that computes the total revenue generated for each record, aggregating the revenue of all products.
    
    
 
