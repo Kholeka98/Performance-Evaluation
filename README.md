@@ -73,6 +73,3 @@ CREATE TABLE IF NOT EXISTS product(
 );
 
 ```
-## Results
-- Product 3 generated the most revenue from 2010 to 2023.
-- Overall, product
