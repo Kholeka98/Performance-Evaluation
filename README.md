@@ -46,7 +46,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek
 8. Which product had the highest total revenue in a 2022, and what was the total revenue for that product?
  
 ## Code
-I have attached a file named [SQL Project]() containing the rest of the code.
+I have attached a file named [SQL Project](https://github.com/Kholeka98/Performance-Evaluation/blob/main/SQL%20Project.sql) containing the rest of the code.
 
 
 ```sql
