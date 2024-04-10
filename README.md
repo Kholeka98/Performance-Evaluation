@@ -47,7 +47,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek
 8. Which product had the highest total revenue in a given year, and what was the total revenue for that product?
  
 ## Code
-I have attached a file [SQL Project]() containing the rest of the code.
+I have attached a file named [SQL Project]() containing the rest of the code.
 
 
 ```sql
