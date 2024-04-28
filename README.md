@@ -81,7 +81,7 @@ CREATE TABLE IF NOT EXISTS product(
 ### Insights
 
 #### Product Performance:
--Product 1 is the best-selling product with an average quantity sold of 4,124.
+- Product 1 is the best-selling product with an average quantity sold of 4,124.
 - Product 4 is the least selling product with an average quantity sold of 1,123.
 #### Revenue Generation:
 - Product 3 consistently generated the highest revenue from 2010 to 2023, indicating its strong performance over the years.
