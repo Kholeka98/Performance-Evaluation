@@ -88,6 +88,6 @@ CREATE TABLE IF NOT EXISTS product(
 #### Seasonal Trends:
 - In 2020, the highest quantity of products was sold in November, January, and September, suggesting possible seasonal trends or promotional activities during these months.
 #### Revenue Decline:
-Using the metric 
-Percentage Decrease = (Revenue in 2021−Revenue in 2022)×100%/ Revenue in 2021)
-, the company experienced a decline of 7.9% in revenue from 2021 to 2022.
+- The company experienced a decline of 7.9% in revenue from 2021 to 2022. 
+- Metric used:  ``` Percentage Decrease = ((Revenue in 2021 - Revenue in 2022) / Revenue in 2021) × 100% ```
+
