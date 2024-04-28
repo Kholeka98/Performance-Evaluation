@@ -22,11 +22,6 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ksabishek
 | S-P3         | Total sales of product 3                                 | DECIMAL(12, 3)  |
 | S-P4         | Total sales of product 4                                 | DECIMAL(12, 3)  |
 
-### Description of datasets uploaded
-- `statsfinal` is the dataset from Kaggle.
-- `product_sales_data` is the dataset I obtained after renaming columns and preparing the data.
-- `SQL imported data` is the dataset SQL imported.
-
 ## Strategy 
 1. **Dataset Prepation on Excel and MySQL**
       - Data wrangling involved inspecting the dataset for null values and appropriately renaming columns based on their descriptions.
@@ -73,4 +68,7 @@ CREATE TABLE IF NOT EXISTS product(
 );
 
 ```
+
+
+## Summary of Result
 
